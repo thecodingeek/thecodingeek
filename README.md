@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thecodingeek, a full stack developer.
+- 👋 Hi, I’m @thecodingeek, a full stack developer and a freelancer.
 - 👀 I’m interested in helping you out with your software development work.
 - 🌱 I’m currently working on JavaScript (React Native, React, Node), Android (Java/Kotlin).
 - 💞️ I’m looking to collaborate on anything cool.
